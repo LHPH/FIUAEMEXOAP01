@@ -1,0 +1,10 @@
+Usr00;5*84*84*411*511*58;Administrador;Jose Luis#castro#Soto;Masculino;Activo;0#samuel;
+Usr01;6*801*101*711*901*79*511;Coordinador;samuel;castro;soto;Masculino;Activo;0;null
+Usr02;6*801*101*711*901*79*511;Coordinador;Samuel;castro;Soto;Masculino;Activo;0;null
+Usr03;6*801*101*711*901*79*511;Coordinador;samuel#castro#soto;Masculino;Activo;0#samuel;
+Usr04;6*801*101*711*901*79*511;Profesor;samuel#castro#soto;Masculino;Activo;0#samuel;
+Usr05;1*79;Coordinador;emmanuel#jjnjn#jnjnj;Masculino;Activo;0#samuel;
+Usr06;5*45*84*411*511*58;Profesor;Luis Ernesto#Sierra#Alva;Masculino;Activo;0#TRON;
+Usr07;6*111*011*901*711*801*79;Coordinador;Luis Ernesto#Sierra#Alva;Masculino;Activo;0#TRON;
+Usr08;5*65*84*411*511*58;Profesor;Luis Ernesto;Sierra;Alva;Masculino;Activo;0;null
+Usr09;5*111*801*101*401*99;Profesor;Jesus#Sanchez#Saenz;Masculino;Activo;1#Proyecto X;
